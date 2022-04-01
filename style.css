@@ -1,9 +1,17 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
-  }
-
 body {
-    border: solid;
-    border-color: blue;
+background-color: rgb(95, 156, 192);
+text-align: center;
 }
 
+span {
+background-color: rgb(190, 174, 79);
+color: rgb(235, 21, 21);
+}
+
+button[type="reset"] {
+    background-color: rgb(201, 25, 25);
+}
+
+button {
+    background-color: rgb(57, 206, 57);
+}
